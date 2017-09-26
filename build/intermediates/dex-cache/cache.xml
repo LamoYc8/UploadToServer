@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/5a03e30e8166ad08aacf01f818a9e16f367118c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_2210f557d651e6b70147f864009526b4eebca56a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/3faf1754adc899ae6b60cf803e669ec0324aca22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_91458f883f55f6bed6ca8915ebac0191e7caf88e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7f4cc0a555adbbf32912cf702bb1383bf12256e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/0b75412c8f872e2b5402efe93b5714099a0c1c11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_d56b8c72ba20b8e572a93fb7c091fbcfe30ff135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/22a4fda69cdf3cc6ced1390fc1da888c3a4e6550/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_b98d209161a52b53cc0359973c882217841f89af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/32eb51b986011572deb3ece2e9200b47f8ccecc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_8262ca6d854c332a4bef038b0b52c84ead38b991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/33505c12abcccab52c2856f72f31e7e8ba44ea12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_d1bfdd0b90cfeee3686ea7b4848dee1416a1bb6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/0c3dbe5bcb5fec31075142ff1760ebe594b33756/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_e18a33b70040eaef9d4d1b9d3fa26a823d8f31a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/76dedb018df6b3da1a0b51e8fcffad7fb109142d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_c3558262e2c4f9134e55d6228e78cd63a17389c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/9645660ce05a04e075522fda7c134285022580ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_fe8595c462f1c4e08ec0ce238e8b4710e2d603ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/98e2281346f705b9a9b23cade04270e4d22bd430/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_bf26f82b3debf7f85647fa3ca657f681c2ae1756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/f3d3207f3844fd3a8a3ebddae9477f6d1ea4ec69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_2e05a79345bb577b35ff86276549e431402a6058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/f317c00433c752e447f14ae8a903448269afd0d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/pre-dexed/debug/classes_823708abb4222a4473b4a061c5a35329ad025069.jar" />
+    </item>
+
+</items>

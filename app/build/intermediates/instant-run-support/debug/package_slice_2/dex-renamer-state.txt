@@ -1,0 +1,4 @@
+#Thu Jul 13 19:37:37 EDT 2017
+base.0=/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/apple/Desktop/SummerR/LorraineZip/UploadToServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

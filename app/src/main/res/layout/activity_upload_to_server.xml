@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingTop="15sp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="134sp"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+        <!--set the whole height of the two ScrollView to 135sp
+            modified the weight of the left part to "65" and "35" for the right part  -->
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="80" >
+
+            <RadioGroup
+                android:id="@+id/rgFileSize"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <RadioButton
+                    android:id="@+id/rb100"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="100kB" />
+
+                <RadioButton
+                    android:id="@+id/rb500"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="500kB" />
+
+                <RadioButton
+                    android:id="@+id/rb1000"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1000kB" />
+
+                <RadioButton
+                    android:id="@+id/rb1500"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1500kB" />
+
+                <RadioButton
+                    android:id="@+id/rb2000"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2000kB" />
+
+                <RadioButton
+                    android:id="@+id/rb2500"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2500kB" />
+            </RadioGroup>
+        </ScrollView>
+
+        <!-- changed the right part from a regular RadioGroup to a ScrollView  -->
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="20">
+            <RadioGroup
+                android:id="@+id/rgEncryption"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <RadioButton
+                    android:id="@+id/rbAES"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="AES Encryption" />
+
+                <RadioButton
+                    android:id="@+id/rbShift"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Shifting Encryption" />
+
+                <RadioButton
+                    android:id="@+id/rbBlowfish"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Blowfish Encryption" />
+
+                <RadioButton
+                    android:id="@+id/rbRC4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="RC4 Encryption" />
+
+                <!--added another two buttons for Simon128 and Speck128 -->
+                <RadioButton
+                    android:id="@+id/rbSimon128"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Simon128 Encryption"/>
+
+                <RadioButton
+                    android:id="@+id/rbSpeck128"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Speck128 Encryption"/>
+
+                <RadioButton
+                    android:id="@+id/rbSparx128"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SparX128 Encryption"/>
+
+                <RadioButton
+                    android:id="@+id/rbLea128"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="LEA128 Encryption"/>
+            </RadioGroup>
+        </ScrollView>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etKey"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="" >
+    </EditText>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <Button
+            android:id="@+id/btnEncrypt"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="50"
+            android:text="Encrypt" />
+
+        <Button
+            android:id="@+id/uploadButton"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="50"
+            android:text="Upload File" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etIPAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter IP Address" >
+    </EditText>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/messageText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10sp"
+            android:text=""
+            android:textStyle="bold" />
+    </ScrollView>
+
+</LinearLayout>
